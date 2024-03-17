@@ -1,0 +1,7 @@
+1;  Task title;  admin;  2022-11-22;  2022-12-01;  Task description;  Yes
+  4;  complete project;  ovese;  2024-02-14;  2024-02-15;  hyperiondev capstone project comletion and test;  Yes
+  3;  school runs;  ovese;  2024-02-14;  2024-02-14;  pick children up from school;  Yes
+  4;  complete project;  lamine;  2024-02-14;  2024-02-15;  hyperiondev capstone project comletion and test;  Yes
+  2;  Assign backlog;  admin;  2024-02-14;  2024-04-23;  Assign the backlog of tasks to individuals;  Yes
+  7;  Add functionality to task manager;  admin;  2022-11-22;  2022-12-01;  Add additional options and refactor the code.;  Yes
+  11;  Goal getting plan;  lamine;  2024-02-15;  2024-04-18;  Discuss game plan and possible improvements to get more goals during games;  Yes

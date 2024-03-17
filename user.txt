@@ -1,0 +1,5 @@
+admin;password
+ovese;barracuda
+claire;concord
+lamine;barcelona
+nathan;marlboro

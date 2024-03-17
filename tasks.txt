@@ -1,0 +1,13 @@
+admin;Task title;Task description;2022-12-01;2022-11-22;No
+admin;Assign backlog;Assign the backlog of tasks to individuals;2024-04-23;2024-02-14;No
+ovese;school runs;pick children up from school;2024-02-14;2024-02-14;No
+ovese;complete project;hyperiondev capstone project comletion and test;2024-02-15;2024-02-14;No
+claire;training;payment support training on new guidelines;2024-03-13;2024-02-14;No
+claire;adrs;clear and resolve all adrs which were opened;2024-02-14;2024-02-14;No
+admin;Add functionality to task manager;Add additional options and refactor the code.;2022-12-01;2022-11-22;No
+claire;End of year report;Submit the end of year report and present summary findings;2024-05-09;2024-02-15;No
+claire;Collection teams review;Review all team members performance in the collections team;2024-04-03;2024-02-15;No
+nathan;Compile process findings;Make a compilation of all the findings during the processing of data;2024-02-17;2024-02-15;No
+lamine;Goal getting plan;Discuss game plan and possible improvements to get more goals during games;2024-04-18;2024-02-15;No
+ovese;barn clearing;getting all farm equipment from barn stable into the truck for transport;2024-03-16;2024-03-04;No
+lamine;Assign backlog;Assign the backlog of tasks to individuals;2024-04-23;2024-02-14;No

@@ -1,0 +1,11 @@
+The current user is....................admin
+
+Item				 Statistics 
+=================================== 
+Total tasks: 			 13 
+Completed tasks: 		 2 
+Incomplete tasks: 		 11 
+Completed tasks(%): 	 15.385 
+Incomplete overdue: 	 0 
+Incomplete tasks(%): 	 84.615 
+Overdue(%): 		 0.000 

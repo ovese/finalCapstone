@@ -1,0 +1,7 @@
+Item			 Statistics 
+=================================== 
+Current user: 		 admin 
+Total users: 		 5 
+Total tasks: 		 13 
+Assigned tasks: 	 3 
+Total allocation(%): 	 23.077 
