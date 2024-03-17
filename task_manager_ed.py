@@ -783,10 +783,10 @@ class TaskManager():
             date_due_list.append(first_file_content[i][3])
             datetime_str = datetime.strptime(date_due_list[i], format)
             if date_today < datetime_str:
-                print(f"{datetime_str} in Future")
+                # print(f"{datetime_str} in Future")
                 count_future += 1
             elif date_today > datetime_str:
-                print(f"{datetime_str} is PAST")
+                # print(f"{datetime_str} is PAST")
                 count_past += 1
         # print(date_due_list)
         # print(f"Future: {count_future} \nPast: {count_past}")
