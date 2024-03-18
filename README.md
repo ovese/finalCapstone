@@ -52,24 +52,24 @@ users can choose from. These menu options are:
 
 ## program sequence shown through screen illustrations
 ### user.txt file having registered users. Can be updated by registering new users
-![login admin]{/assets/images/user-txt.png}
+![login admin](/assets/images/user-txt.png)
 ### login screen and menu for admin and non-admin user
-![login admin]{/assets/images/log-in.png}
-![login admin]{/assets/images/log-in-others.png}
+![login admin](/assets/images/log-in.png)
+![login admin](/assets/images/log-in-others.png)
 ### Registration screen 
-![login admin]{/assets/images/register-user.png}
+![login admin](/assets/images/register-user.png)
 ### View all screen
-![login admin]{/assets/images/view-all.png}
+![login admin](/assets/images/view-all.png)
 ### View mine screen
-![login admin]{/assets/images/view-mine.png}
+![login admin](/assets/images/view-mine.png)
 ### View specific task screen
-![login admin]{/assets/images/view-specific.png}
+![login admin](/assets/images/view-specific.png)
 ### Generate report screen
-![login admin]{/assets/images/generate-report.png}
+![login admin](/assets/images/generate-report.png)
 ### Display statistics screen
-![login admin]{/assets/images/display-stats.png}
+![login admin](/assets/images/display-stats.png)
 ### Exit application screen
-![login admin]{/assets/images/exit.png}
+![login admin](/assets/images/exit.png)
 
 
 # Credits:
